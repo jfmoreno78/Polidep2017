@@ -61,7 +61,7 @@ else
             <li class="scroll"><a href="#about-us"><?php echo $menu02; ?></a></li>
             <li class="scroll"><a href="#ejes"><?php echo $menu03; ?></a></li>
             <li class="scroll"><a href="#comiteorg"><?php echo $menu04; ?></a></li>
-            <!-- <li class="scroll"><a href="#poster"><?php echo $menuPOS; ?></a></li> -->
+            <li class="scroll"><a href="#poster"><?php echo $menuPOS; ?></a></li>
             <!--<li class="scroll"><a href="#ponentesX"><?php echo $menuPON; ?></a></li>-->
             <!--<li class="scroll"><a href="#trabajos"><?php echo $menu05; ?></a></li>-->
             <li class="scroll"><a href="#costos"><?php echo $menu06; ?></a></li>
@@ -163,15 +163,21 @@ else
 		-->
 
       <div class="jumbotron" >
-        <h1>AGENDA POLIDEPORTIVA PLATA</h1>
+        <h1>AGENDA POLIDEPORTIVO PLATA</h1>
 
         <p>Programa Semanal</p>
         <br />
+        <!--
         <a class="btn btn-primary" href="./pdf/lunes.pdf" role="button">Lunes</a>
-		<a class="btn btn-primary" href="./pdf/martes.pdf" role="button">Martes</a>
-		<a class="btn btn-primary" href="./pdf/miercoles.pdf" role="button">Miercoles</a>
+		    <a class="btn btn-primary" href="./pdf/martes.pdf" role="button">Martes</a>
+		    <a class="btn btn-primary" href="./pdf/miercoles.pdf" role="button">Miercoles</a>
         <a class="btn btn-primary" href="./pdf/jueves.pdf" role="button">Jueves</a>
-        <a class="btn btn-primary" href="./pdf/viernes.pdf" role="button">Viernes</a>
+        <a class="btn btn-primary" href="./pdf/viernes.pdf" role="button">Viernes</a> -->
+
+        <!-- elemento de calendario de google -->
+          <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;ctz=America%2FMexico_City" style="border:solid 1px #777" width="1020" height="400" frameborder="0" scrolling="no"></iframe>
+
+        <!-- fin del elemento del calendario de google -->
 
       </div>
 
@@ -323,7 +329,7 @@ else
               <div class="single-member">
                 <img src="./images/uno.jpg" alt="team member">
                 <?php echo $comite_olmos; ?>
-                <p>giovani_vazq@upp.edu.mx</p>
+                <p>claudio_g@upp.edu.mx</p>
                 <!--
 									<div class="socials">
 										<a href="#"><i class="fa fa-facebook"></i></a>
@@ -339,7 +345,7 @@ else
               <div class="single-member">
                 <img src="./images/dos.jpg" alt="team member">
                 <?php echo $comite_simancas; ?>
-                <p>ruben_vargas@upp.edu.mx</p>
+                <p>giovani_vazq@upp.edu.mx</p>
                 <!--
 									<div class="socials">
 										<a href="#"><i class="fa fa-facebook"></i></a>
@@ -500,7 +506,7 @@ else
         <div class="col-sm-8 col-sm-offset-2">
           <h2 class="title-one"><?php echo $poster; ?></h2>
           <p>
-            <a href="./images/<?php echo $poster_imagen; ?>"><img src="./images/<?php echo $postermini_imagen; ?>" /></a>
+            <a href="./pdf/<?php echo $poster_imagen; ?>"><img src="./images/<?php echo $postermini_imagen; ?>" /></a>
           </p>
 
         </div>

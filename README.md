@@ -1,3 +1,1 @@
-#POLIDEPORTIVO PLATA 2017
-
-este es un ejemplo 
+#Polideportivo Plata v.01112017

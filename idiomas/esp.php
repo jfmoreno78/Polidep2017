@@ -39,12 +39,12 @@ esparcimiento, así como de la practica de las diferentes ramas de deportivas, e
   participantes.</p>";
 
 $objetivo = "Objetivo";
-$objetivo_texto = "<p>Difundir el espacio deportivo de alto nievl, teniendo como meta nuevos talentos deportivos
+$objetivo_texto = "<p>Difundir el espacio deportivo de alto nivel, teniendo como meta nuevos talentos deportivos,
  la sana recreacion de la ciudadania y el mejoramento personal.</p>";
 
 $dirijidoa = "Dirigido a";
 $dirijidoa_texto = "<p>Las instalaciones estan dirijidas a toda la comunidad estudiantil, asi como a las ciudadania 
-en general que estén interesados en desarrollar la prctica deportiva.</p>";
+en general que estén interesados en desarrollar la practica deportiva.</p>";
 
 $antecedentes = "Antecedentes";
 $antecedentes_texto = "<h3>Fecha: 8 de Agosto 2016</h3>
@@ -59,7 +59,7 @@ $liga_ver_anterior = "Acceder a la versión 2015 del SIMCI";
 //---------------------------------------------------------
 
 $ejes_tematicos = "PRINCIPALES DEPORTES";
-$ejes_tematicos_texto = "<p>El POLIDEPORTIVO PLATA, cuenta conmo lineas deportivas el acodicionamiento fisico, 
+$ejes_tematicos_texto = "<p>El POLIDEPORTIVO PLATA, cuenta como lineas deportivas, el acondicionamiento fisico, 
 deportes de conjunto y los deportes de alto nivel.</p>";
 
 $eje1 = "<h2>ACONDICIONAMIETO FISCO</h2>
@@ -67,11 +67,11 @@ $eje1 = "<h2>ACONDICIONAMIETO FISCO</h2>
 ejercicio, para obtener un estado general de saludable, realizandose en un nivel de bajo, medio y alto impacto,como es: Yoga, Cross Trining y aparatos de pesas.</p> <br />";
 
 $eje2 = "<h2>DEPORTES DE CONJUNTO</h2>
-<p>Los Deportes de Conjunto estan dirijidos a desarrollar las habilidades en equipo, mostrando disciplina, constancia compañerismo y una vision de competitividad dentro de los niveles de medio y alto rendimiento.</p>
+<p>Los Deportes de Conjunto estan dirijidos a desarrollar las habilidades en equipo, mostrando disciplina, constancia, compañerismo y una vision de competitividad dentro del nivel medio y alto rendimiento.</p>
 <br />";
 
 $eje3 = "<h2>DEPORTES DE ALTO NIVEL</h2>
-<p>Los Deportes de Alto nivel o mejor llmados de Alto Rendimiento, son los que exigen al deportista un entranamiento con mas horas de repeticion, constancia y vision de mejora tecnica, fisica y mental.</p>
+<p>Los Deportes de Alto nivel o mejor llamados de Alto Rendimiento, son los que exigen al deportista un entranamiento con mas horas de repeticion, constancia y vision de mejora tecnica, fisica y mental.</p>
 <br />";
 
 //Comité organizador
@@ -82,9 +82,9 @@ $comite_texto = "<p>Equipo Administrativo de la Universidad Politécnica de Pach
 
 $dire_admon = "<h4>LIC. ENOCH MORENO ALFARO </h4>
 <h5>Director Administrativo del Polideportivo Plata</h5>";
-$comite_olmos= "<h4>LIC. VÁZQUEZ RODRÍGUEZ EDGAR GIOVANI</h4>
+$comite_olmos= "<h4>LIC. GODÍNEZ ORTIZ CLAUDIO</h4>
 <h5>Entrenador</h5>";
-$comite_simancas = "<h4>lIC. VARGAS CURIEL SABINO RUBÉN</h4>
+$comite_simancas = "<h4>lIC. VÁZQUEZ RODRÍGUEZ EDGAR GIOVANI</h4>
 <h5>Entrenador</h5>";
 $comite_tellez = "<h4>LIC. LÓPEZ CUELLAR GABRIELA</h4>
 <h5>Entrenadora</h5>";
@@ -109,8 +109,8 @@ $comite_brisenno = "<h4>PSIC. PATRICIA BRISEÑO GONZÁLEZ</h4>
 //---------------------------------------------------------
 
 $poster = "POSTER";
-$poster_imagen = "poster-SIMCI-2017-finalv2-01.jpg";
-$postermini_imagen = "poster-mini.jpg";
+$poster_imagen = "convocatoria_verano_interna.pdf";
+$postermini_imagen = "plan_vacacional_2017_banner.jpg";
 
 
 //PONENTES
